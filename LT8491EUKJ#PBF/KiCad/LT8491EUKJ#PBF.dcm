@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LT8491EUKJ#PBF
+D HI V, HI C BUCK-BOOST BAT CH CNT
+K
+F https://www.analog.com/en/products/lt8491.html
+$ENDCMP
+#
+#End Doc Library

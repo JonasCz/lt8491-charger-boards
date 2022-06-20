@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PQ2614BLA-150K
+D Fixed Inductors 15uH 10% 30A AEC-Q200 GULL WING
+K
+F https://www.bourns.com/docs/Product-Datasheets/PQ2614.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP XL7005A
+D DC-DC Converters Step-Down Adjustable 1 5V 80V 1.25V 20V 400mA SOP-8_EP_150mil RoHS
+K
+F http://www.xlsemi.com/datasheet/XL7005A%20datasheet-Chinese.pdf
+$ENDCMP
+#
+#End Doc Library

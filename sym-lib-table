@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "LT8491EUKJ#PBF")(type "Legacy")(uri "${KIPRJMOD}/LT8491EUKJ#PBF/KiCad/LT8491EUKJ#PBF.lib")(options "")(descr ""))
+  (lib (name "PQ2614BLA-150K")(type "Legacy")(uri "${KIPRJMOD}/PQ2614BLA-150K/KiCad/PQ2614BLA-150K.lib")(options "")(descr ""))
+)

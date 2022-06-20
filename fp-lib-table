@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name "LT8491EUKJ#PBF")(type "Legacy")(uri "${KIPRJMOD}/LT8491EUKJ#PBF/KiCad/LT8491EUKJ#PBF.mod")(options "")(descr ""))
+  (lib (name "PQ2614BLA-150K")(type "Legacy")(uri "${KIPRJMOD}/PQ2614BLA-150K/KiCad/PQ2614BLA-150K.mod")(options "")(descr ""))
+  (lib (name "footprints")(type "KiCad")(uri "/Users/jonas/Downloads/ul_LT8491EUKJ/KiCAD/2021-06-12_20-29-05/footprints.pretty")(options "")(descr ""))
+  (lib (name "KiCad")(type "KiCad")(uri "${KIPRJMOD}/NCP781BMN050TAG/KiCad")(options "")(descr ""))
+)
